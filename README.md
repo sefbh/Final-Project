@@ -5,7 +5,7 @@ This repository contains the R Markdown file, supporting resources, and the knit
 
 ## Repository Structure
 
-STOR_390_Final.Rmd: The R Markdown file containing the full essay, analysis, and R code for the figures, tables, and simulations.
+Seth Hall - STOR 390 Final.Rmd: The R Markdown file containing the full essay, analysis, and R code for the figures, tables, and simulations. (I could not figure out how to download the file from R Studio as an RMD, I thought I had it at one point but it was the wrong file. A few incorrect uploads later I got the right one)
 
 STOR_390_Final.pdf: The knitted PDF file generated from the R Markdown document. This is the final submission document.
 
